@@ -30,10 +30,46 @@ A Telegram buy bot: add it to your token's group or channel and every buy lands 
 
 <br clear="right">
 
+---
+
+<p align="center">
+  <img src="vpn-banner.gif" alt="Silverhand VPN" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://t.me/fiveloss_VPNbot"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@fiveloss__VPNbot-ff2b3d?logo=telegram&logoColor=white&labelColor=0e1621"></a>
+  <a href="https://quaynet.online"><img alt="Website" src="https://img.shields.io/badge/web-quaynet.online-ff2b3d?logo=googlechrome&logoColor=white&labelColor=0e1621"></a>
+</p>
+
+<img src="vpn-card.gif" alt="Auto · Fastest: the app pings every server and picks the quickest" width="440" align="left">
+
+### 🔴 [Silverhand VPN](https://quaynet.online)
+
+A paid VPN you buy and manage in Telegram or on the web. One subscription link opens in Happ, INCY, v2rayN and other Xray or sing-box apps.
+
+- ⚡ **Auto · Fastest**: the app pings every server and switches to the quickest on its own
+- 📶 three ways in: Wi-Fi (VLESS + REALITY), LTE (Hysteria2 + Salamander) and XHTTP for strict networks
+- 🌍 Poland and Estonia, both in every subscription
+- 🏠 Russian sites skip the tunnel and open at full speed
+- 🛡 ads are cut on the servers, browsing history is never kept
+- 🩺 a built-in connection check and a speed test to every server
+- 💳 card, SBP or crypto · 🎁 gift codes and referrals
+- 🇷🇺 the interface is in Russian
+
+**[🤖 Open the bot](https://t.me/fiveloss_VPNbot)** · **[🌐 quaynet.online](https://quaynet.online)**
+
+<br clear="left">
+
+---
+
 ### 🛠 How it's built
 
-`Python` · `aiogram 3` · `SQLite` · `Pillow` · `ffmpeg` · `systemd`
+**Silverhand Buys**: `Python` · `aiogram 3` · `SQLite` · `Pillow` · `ffmpeg` · `systemd`
 
 No web3 library: logs, ABI and keccak are decoded by hand, and every chain fact the bot relies on is checked against mainnet before it starts. Prices come from the trade events themselves, so the public RPC gets a handful of calls every three seconds.
+
+**Silverhand VPN**: `Python` · `aiogram 3` · `aiohttp` · `SQLite` · `Xray-core` · `Hysteria2` · `Caddy`
+
+One process runs the bot, the web shop and the payment webhooks. Every payment is re-checked with the provider before a key is issued, and the subscription carries its own routing rules, so the app needs no setup beyond adding the link.
 
 <p align="center"><sub>Not paper hands. Silver hands.</sub></p>
