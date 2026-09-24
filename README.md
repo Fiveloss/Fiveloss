@@ -45,16 +45,14 @@ A Telegram buy bot: add it to your token's group or channel and every buy lands 
 
 ### 🔴 [Silverhand VPN](https://quaynet.online)
 
-A paid VPN you buy and manage in Telegram or on the web. One subscription link opens in Happ, INCY, v2rayN and other Xray or sing-box apps.
+A paid VPN you buy and manage in Telegram or on the web. One link works in Happ, INCY, v2rayN and other apps.
 
-- ⚡ **Auto · Fastest**: the app pings every server and switches to the quickest on its own
-- 📶 three ways in: Wi-Fi (VLESS + REALITY), LTE (Hysteria2 + Salamander) and XHTTP for strict networks
-- 🌍 Poland and Estonia, both in every subscription
-- 🏠 Russian sites skip the tunnel and open at full speed
-- 🛡 ads are cut on the servers, browsing history is never kept
-- 🩺 a built-in connection check and a speed test to every server
-- 💳 card, SBP or crypto · 🎁 gift codes and referrals
-- 🇷🇺 the interface is in Russian
+- ⚡ **Auto · Fastest** picks the quickest server by itself
+- 📶 Wi-Fi, LTE with Salamander, XHTTP for strict networks
+- 🌍 Poland and Estonia · Russian sites skip the tunnel
+- 🛡 ads cut on the servers, no browsing history kept
+- 🩺 connection check and speed test built in
+- 💳 card, SBP or crypto · 🎁 gifts · 🌐 Русский
 
 **[🤖 Open the bot](https://t.me/fiveloss_VPNbot)** · **[🌐 quaynet.online](https://quaynet.online)**
 
