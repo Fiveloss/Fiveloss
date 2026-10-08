@@ -15,11 +15,11 @@
   <img alt="aiogram 3" src="https://img.shields.io/badge/aiogram_3-26a5e4?logo=telegram&logoColor=white&labelColor=0e1621">
   <img alt="aiohttp" src="https://img.shields.io/badge/aiohttp-2c5bb4?logo=aiohttp&logoColor=white&labelColor=0e1621">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0f80cc?logo=sqlite&logoColor=white&labelColor=0e1621">
-  <img alt="Pillow" src="https://img.shields.io/badge/Pillow-c9d1da?logo=python&logoColor=0e1621&labelColor=0e1621">
+  <img alt="Pillow" src="https://img.shields.io/badge/Pillow-5a6472?logo=python&logoColor=white&labelColor=0e1621">
   <img alt="FFmpeg" src="https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white&labelColor=0e1621">
-  <img alt="Xray" src="https://img.shields.io/badge/Xray--core-ff2b3d?logo=v2ray&logoColor=white&labelColor=0e1621">
+  <img alt="Xray" src="https://img.shields.io/badge/Xray--core-ff2b3d?labelColor=0e1621">
   <img alt="Caddy" src="https://img.shields.io/badge/Caddy-1f88c0?logo=caddy&logoColor=white&labelColor=0e1621">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux_·_systemd-fcc624?logo=linux&logoColor=0e1621&labelColor=0e1621">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux_·_systemd-e8a400?logo=linux&logoColor=white&labelColor=0e1621">
 </p>
 
 ---
