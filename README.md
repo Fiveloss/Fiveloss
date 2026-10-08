@@ -76,7 +76,7 @@ A Telegram buy bot for Robinhood Chain: add it to your token's group or channel 
 - 🎓 Pons and Flap.sh curves, then any Uniswap v2 / v3 / v4 pool
 - 🚀 posts of their own for new market-cap highs and a filling curve
 - 📊 `/stats` and 🏆 `/top` right in the chat
-- 🌐 English and Русский · forum topics · channels
+- 🌐 your language · forum topics · channels
 - 🔒 reads only its own commands, never asks for keys
 
 **[➕ Add to your chat](https://t.me/SilverhandBuysBot)** · **[📖 Source](https://github.com/Fiveloss/silverhand-buys)**
@@ -105,7 +105,7 @@ A paid VPN you buy and manage in Telegram or on the web. One link works in Happ,
 - 🌍 Poland and Estonia · Russian sites skip the tunnel
 - 🛡 ads cut on the servers, no browsing history kept
 - 🩺 connection check and speed test built in
-- 💳 card, SBP or crypto · 🎁 gifts · 🌐 Русский
+- 💳 card, SBP or crypto · 🎁 gifts
 
 **[🤖 Open the bot](https://t.me/fiveloss_VPNbot)** · **[🌐 quaynet.online](https://quaynet.online)**
 
